@@ -1,0 +1,11 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    row-gap: 20px;
+    column-gap: 10px;
+}
+
+.profile_picture {
+width: 25vw;
+}
+
